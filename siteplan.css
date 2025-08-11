@@ -62,13 +62,13 @@ img.wireframe {
 .deskview img {
     object-fit: cover;
     width: 80%;
-    max-height: auto;
+    height: auto;
 }
 
 .mobiview img {
     object-fit: cover;
     width: 80%;
-    max-height: auto;
+    height: auto;
 }
 
 .deskview {
