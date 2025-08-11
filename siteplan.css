@@ -1,7 +1,7 @@
 
 :root {
-    --primary-color: #887b03; /* Dark goldenrod for nature/agriculture theme */
-    --secondary-color: #447955; /* jungle green for accents and highlights */
+    --primary-color: #887b03; 
+    --secondary-color: #447955; 
 }
 body {
     font-family: Arial, sans-serif;
